@@ -57,5 +57,4 @@ Licencia: **GNU GPL v3**
 
 ---
 
-## 📂 Estructura del Proyecto
 
