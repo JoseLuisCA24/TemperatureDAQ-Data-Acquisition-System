@@ -58,3 +58,16 @@ Licencia: **GNU GPL v3**
 ---
 
 
+## 📸 Imágenes del Proyecto / Circuito Implementado
+
+A continuación puedes agregar fotos del montaje físico:
+
+- 🟦 Arduino conectado al sensor  
+- 🟨 Protoboard con LEDs  
+- 🔥 LED rojo encendido (temperatura alta)  
+- ❄️ LED azul encendido (temperatura baja)  
+- 🖥️ Ventana Tkinter mostrando la gráfica en tiempo real 
+<img width="439" height="584" alt="circuito" src="https://github.com/user-attachments/assets/069cd08e-7747-4556-90a5-f60e67ab78b8" />
+
+
+
